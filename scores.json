@@ -1,5 +1,72 @@
 {
-  "updated": "2026-06-26T00:00:00+00:00",
-  "matches": [],
-  "source": "placeholder"
+  "updated": "2026-06-26T14:45:46.627419+00:00",
+  "matches": [
+    {
+      "home": "Norway",
+      "away": "France",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-26T19:00Z",
+      "venue": "",
+      "group": "World Cup"
+    },
+    {
+      "home": "Senegal",
+      "away": "Iraq",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-26T19:00Z",
+      "venue": "",
+      "group": "World Cup"
+    },
+    {
+      "home": "Cape Verde",
+      "away": "Saudi Arabia",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-27T00:00Z",
+      "venue": "",
+      "group": "World Cup"
+    },
+    {
+      "home": "Uruguay",
+      "away": "Spain",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-27T00:00Z",
+      "venue": "",
+      "group": "World Cup"
+    },
+    {
+      "home": "Egypt",
+      "away": "Iran",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-27T03:00Z",
+      "venue": "",
+      "group": "World Cup"
+    },
+    {
+      "home": "New Zealand",
+      "away": "Belgium",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-27T03:00Z",
+      "venue": "",
+      "group": "World Cup"
+    }
+  ],
+  "source": "espn"
 }
