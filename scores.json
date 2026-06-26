@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:56:14.709151+00:00",
+  "updated": "2026-06-26T22:14:20.379773+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -665,9 +665,9 @@
       "home": "Norway",
       "away": "France",
       "hs": 1,
-      "as": 3,
-      "done": false,
-      "live": true,
+      "as": 4,
+      "done": true,
+      "live": false,
       "utc": "2026-06-26T19:00Z",
       "venue": "Gillette Stadium",
       "group": "World Cup"
@@ -677,8 +677,8 @@
       "away": "Iraq",
       "hs": 5,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-26T19:00Z",
       "venue": "BMO Field",
       "group": "World Cup"
