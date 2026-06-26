@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T19:49:59.146800+00:00",
+  "updated": "2026-06-26T20:56:14.709151+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -675,7 +675,7 @@
     {
       "home": "Senegal",
       "away": "Iraq",
-      "hs": 1,
+      "hs": 5,
       "as": 0,
       "done": false,
       "live": true,
