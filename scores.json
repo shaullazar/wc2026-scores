@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:08:39.502843+00:00",
+  "updated": "2026-06-27T22:15:28.445391+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -730,7 +730,7 @@
     {
       "home": "Croatia",
       "away": "Ghana",
-      "hs": 0,
+      "hs": 1,
       "as": 0,
       "done": false,
       "live": true,
