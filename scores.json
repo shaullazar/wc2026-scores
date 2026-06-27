@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T22:15:28.445391+00:00",
+  "updated": "2026-06-27T23:30:27.972818+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -730,10 +730,10 @@
     {
       "home": "Croatia",
       "away": "Ghana",
-      "hs": 1,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "hs": 2,
+      "as": 1,
+      "done": true,
+      "live": false,
       "utc": "2026-06-27T21:00Z",
       "venue": "Lincoln Financial Field",
       "group": "World Cup"
@@ -742,9 +742,9 @@
       "home": "Panama",
       "away": "England",
       "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "as": 2,
+      "done": true,
+      "live": false,
       "utc": "2026-06-27T21:00Z",
       "venue": "MetLife Stadium",
       "group": "World Cup"
@@ -861,7 +861,7 @@
     },
     {
       "home": "Mexico",
-      "away": "Third Place Group C/E/F/H/I",
+      "away": "Ecuador",
       "hs": null,
       "as": null,
       "done": false,
