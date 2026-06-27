@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T23:36:19.313463+00:00",
+  "updated": "2026-06-27T01:32:08.403332+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -686,10 +686,10 @@
     {
       "home": "Cabo Verde",
       "away": "Saudi Arabia",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-06-27T00:00Z",
       "venue": "NRG Stadium",
       "group": "World Cup"
@@ -697,10 +697,10 @@
     {
       "home": "Uruguay",
       "away": "Spain",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 1,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-06-27T00:00Z",
       "venue": "Estadio Akron",
       "group": "World Cup"
@@ -835,6 +835,39 @@
       "live": false,
       "utc": "2026-06-30T01:00Z",
       "venue": "Estadio BBVA",
+      "group": "World Cup"
+    },
+    {
+      "home": "Ivory Coast",
+      "away": "Norway",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-30T17:00Z",
+      "venue": "AT&T Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "France",
+      "away": "Third Place Group C/D/F/G/H",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-06-30T21:00Z",
+      "venue": "MetLife Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Mexico",
+      "away": "Third Place Group C/E/F/H/I",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-01T01:00Z",
+      "venue": "Estadio Banorte",
       "group": "World Cup"
     }
   ],
