@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T01:32:08.403332+00:00",
+  "updated": "2026-06-27T05:33:40.428835+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -688,8 +688,8 @@
       "away": "Saudi Arabia",
       "hs": 0,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-27T00:00Z",
       "venue": "NRG Stadium",
       "group": "World Cup"
@@ -699,8 +699,8 @@
       "away": "Spain",
       "hs": 0,
       "as": 1,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-27T00:00Z",
       "venue": "Estadio Akron",
       "group": "World Cup"
@@ -708,9 +708,9 @@
     {
       "home": "Egypt",
       "away": "IR Iran",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 1,
+      "as": 1,
+      "done": true,
       "live": false,
       "utc": "2026-06-27T03:00Z",
       "venue": "Lumen Field",
@@ -719,9 +719,9 @@
     {
       "home": "New Zealand",
       "away": "Belgium",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 1,
+      "as": 5,
+      "done": true,
       "live": false,
       "utc": "2026-06-27T03:00Z",
       "venue": "BC Place",
@@ -817,7 +817,7 @@
     },
     {
       "home": "Germany",
-      "away": "Third Place Group A/B/C/D/F",
+      "away": "Paraguay",
       "hs": null,
       "as": null,
       "done": false,
@@ -850,7 +850,7 @@
     },
     {
       "home": "France",
-      "away": "Third Place Group C/D/F/G/H",
+      "away": "Sweden",
       "hs": null,
       "as": null,
       "done": false,
