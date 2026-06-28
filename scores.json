@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T20:46:43.919713+00:00",
+  "updated": "2026-06-28T21:47:17.462723+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -797,9 +797,9 @@
       "home": "South Africa",
       "away": "Canada",
       "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "as": 1,
+      "done": true,
+      "live": false,
       "utc": "2026-06-28T19:00Z",
       "venue": "SoFi Stadium",
       "group": "World Cup"
