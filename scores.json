@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T23:30:27.972818+00:00",
+  "updated": "2026-06-28T01:36:05.230775+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -752,9 +752,9 @@
     {
       "home": "Colombia",
       "away": "Portugal",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 0,
+      "as": 0,
+      "done": true,
       "live": false,
       "utc": "2026-06-27T23:30Z",
       "venue": "Hard Rock Stadium",
@@ -763,9 +763,9 @@
     {
       "home": "Congo DR",
       "away": "Uzbekistan",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 3,
+      "as": 1,
+      "done": true,
       "live": false,
       "utc": "2026-06-27T23:30Z",
       "venue": "Mercedes-Benz Stadium",
@@ -868,6 +868,39 @@
       "live": false,
       "utc": "2026-07-01T01:00Z",
       "venue": "Estadio Banorte",
+      "group": "World Cup"
+    },
+    {
+      "home": "England",
+      "away": "Congo DR",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-01T16:00Z",
+      "venue": "Mercedes-Benz Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Belgium",
+      "away": "Senegal",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-01T20:00Z",
+      "venue": "Lumen Field",
+      "group": "World Cup"
+    },
+    {
+      "home": "USA",
+      "away": "Bosnia-Herzegovina",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-02T00:00Z",
+      "venue": "Levi's Stadium",
       "group": "World Cup"
     }
   ],
