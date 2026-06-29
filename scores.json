@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T23:52:55.228262+00:00",
+  "updated": "2026-06-29T02:40:19.876233+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -901,6 +901,39 @@
       "live": false,
       "utc": "2026-07-02T00:00Z",
       "venue": "Levi's Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Spain",
+      "away": "Austria",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-02T19:00Z",
+      "venue": "SoFi Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Portugal",
+      "away": "Croatia",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-02T23:00Z",
+      "venue": "BMO Field",
+      "group": "World Cup"
+    },
+    {
+      "home": "Switzerland",
+      "away": "Algeria",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-03T03:00Z",
+      "venue": "BC Place",
       "group": "World Cup"
     }
   ],
