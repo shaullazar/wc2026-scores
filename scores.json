@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T18:23:52.278552+00:00",
+  "updated": "2026-06-29T20:22:04.398695+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -807,10 +807,10 @@
     {
       "home": "Brazil",
       "away": "Japan",
-      "hs": 1,
+      "hs": 2,
       "as": 1,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-29T17:00Z",
       "venue": "NRG Stadium",
       "group": "World Cup"
