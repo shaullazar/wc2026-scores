@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T22:43:35.569283+00:00",
+  "updated": "2026-06-29T23:44:06.094874+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -820,8 +820,8 @@
       "away": "Paraguay",
       "hs": 1,
       "as": 1,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-29T20:30Z",
       "venue": "Gillette Stadium",
       "group": "World Cup"
