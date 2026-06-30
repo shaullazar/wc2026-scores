@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T16:54:57.404975+00:00",
+  "updated": "2026-06-30T18:54:47.588629+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -840,10 +840,10 @@
     {
       "home": "Ivory Coast",
       "away": "Norway",
-      "hs": null,
-      "as": null,
+      "hs": 1,
+      "as": 2,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-06-30T17:00Z",
       "venue": "AT&T Stadium",
       "group": "World Cup"
