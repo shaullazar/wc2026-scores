@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T01:51:42.226034+00:00",
+  "updated": "2026-06-30T06:00:28.740207+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -829,10 +829,10 @@
     {
       "home": "Netherlands",
       "away": "Morocco",
-      "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "hs": 1,
+      "as": 1,
+      "done": true,
+      "live": false,
       "utc": "2026-06-30T01:00Z",
       "venue": "Estadio BBVA",
       "group": "World Cup"
