@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T22:15:01.170502+00:00",
+  "updated": "2026-06-30T23:39:11.935292+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -851,10 +851,10 @@
     {
       "home": "France",
       "away": "Sweden",
-      "hs": 2,
+      "hs": 3,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-06-30T21:00Z",
       "venue": "MetLife Stadium",
       "group": "World Cup"
