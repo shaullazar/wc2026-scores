@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T23:44:06.094874+00:00",
+  "updated": "2026-06-30T01:51:42.226034+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -829,10 +829,10 @@
     {
       "home": "Netherlands",
       "away": "Morocco",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-06-30T01:00Z",
       "venue": "Estadio BBVA",
       "group": "World Cup"
@@ -934,6 +934,39 @@
       "live": false,
       "utc": "2026-07-03T03:00Z",
       "venue": "BC Place",
+      "group": "World Cup"
+    },
+    {
+      "home": "Australia",
+      "away": "Egypt",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-03T18:00Z",
+      "venue": "AT&T Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Argentina",
+      "away": "Cabo Verde",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-03T22:00Z",
+      "venue": "Hard Rock Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Colombia",
+      "away": "Ghana",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-04T01:30Z",
+      "venue": "GEHA Field at Arrowhead Stadium",
       "group": "World Cup"
     }
   ],
