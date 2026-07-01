@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T15:59:37.279657+00:00",
+  "updated": "2026-07-01T18:05:53.781232+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -873,9 +873,9 @@
     {
       "home": "England",
       "away": "Congo DR",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 2,
+      "as": 1,
+      "done": true,
       "live": false,
       "utc": "2026-07-01T16:00Z",
       "venue": "Mercedes-Benz Stadium",
