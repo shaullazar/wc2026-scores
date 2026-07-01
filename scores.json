@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T01:56:09.036575+00:00",
+  "updated": "2026-07-01T06:27:51.695145+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -862,9 +862,9 @@
     {
       "home": "Mexico",
       "away": "Ecuador",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 2,
+      "as": 0,
+      "done": true,
       "live": false,
       "utc": "2026-07-01T02:00Z",
       "venue": "Estadio Banorte",
