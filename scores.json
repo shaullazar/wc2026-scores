@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T23:39:11.935292+00:00",
+  "updated": "2026-07-01T01:56:09.036575+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -866,7 +866,7 @@
       "as": null,
       "done": false,
       "live": false,
-      "utc": "2026-07-01T01:00Z",
+      "utc": "2026-07-01T02:00Z",
       "venue": "Estadio Banorte",
       "group": "World Cup"
     },
@@ -967,6 +967,28 @@
       "live": false,
       "utc": "2026-07-04T01:30Z",
       "venue": "GEHA Field at Arrowhead Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Canada",
+      "away": "Morocco",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-04T17:00Z",
+      "venue": "NRG Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Paraguay",
+      "away": "France",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-04T21:00Z",
+      "venue": "Lincoln Financial Field",
       "group": "World Cup"
     }
   ],
