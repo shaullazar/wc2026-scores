@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T18:05:53.781232+00:00",
+  "updated": "2026-07-01T20:08:33.182743+00:00",
   "matches": [
     {
       "home": "Mexico",
@@ -884,10 +884,10 @@
     {
       "home": "Belgium",
       "away": "Senegal",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-01T20:00Z",
       "venue": "Lumen Field",
       "group": "World Cup"
