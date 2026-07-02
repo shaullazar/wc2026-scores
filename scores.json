@@ -1,28 +1,6 @@
 {
-  "updated": "2026-07-01T22:55:58.733118+00:00",
+  "updated": "2026-07-02T00:07:08.133444+00:00",
   "matches": [
-    {
-      "home": "Mexico",
-      "away": "South Africa",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-11T19:00Z",
-      "venue": "Estadio Banorte",
-      "group": "World Cup"
-    },
-    {
-      "home": "South Korea",
-      "away": "Czechia",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-12T02:00Z",
-      "venue": "Estadio Akron",
-      "group": "World Cup"
-    },
     {
       "home": "Canada",
       "away": "Bosnia-Herzegovina",
@@ -895,10 +873,10 @@
     {
       "home": "USA",
       "away": "Bosnia-Herzegovina",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-02T00:00Z",
       "venue": "Levi's Stadium",
       "group": "World Cup"
@@ -989,6 +967,28 @@
       "live": false,
       "utc": "2026-07-04T21:00Z",
       "venue": "Lincoln Financial Field",
+      "group": "World Cup"
+    },
+    {
+      "home": "Brazil",
+      "away": "Norway",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-05T20:00Z",
+      "venue": "MetLife Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Mexico",
+      "away": "England",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-06T00:00Z",
+      "venue": "Estadio Banorte",
       "group": "World Cup"
     }
   ],
