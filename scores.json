@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T19:55:30.574076+00:00",
+  "updated": "2026-07-02T21:05:00.718676+00:00",
   "matches": [
     {
       "home": "Canada",
@@ -884,10 +884,10 @@
     {
       "home": "Spain",
       "away": "Austria",
-      "hs": 1,
+      "hs": 3,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-07-02T19:00Z",
       "venue": "SoFi Stadium",
       "group": "World Cup"
