@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T00:07:08.133444+00:00",
+  "updated": "2026-07-02T04:19:19.355584+00:00",
   "matches": [
     {
       "home": "Canada",
@@ -873,10 +873,10 @@
     {
       "home": "USA",
       "away": "Bosnia-Herzegovina",
-      "hs": 0,
+      "hs": 2,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-07-02T00:00Z",
       "venue": "Levi's Stadium",
       "group": "World Cup"
