@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T22:47:02.056462+00:00",
+  "updated": "2026-07-03T23:48:28.783868+00:00",
   "matches": [
     {
       "home": "Qatar",
@@ -907,7 +907,7 @@
       "home": "Argentina",
       "away": "Cabo Verde",
       "hs": 1,
-      "as": 0,
+      "as": 1,
       "done": false,
       "live": true,
       "utc": "2026-07-03T22:00Z",
