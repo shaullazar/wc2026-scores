@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T18:05:30.388639+00:00",
+  "updated": "2026-07-03T19:45:10.815356+00:00",
   "matches": [
     {
       "home": "Qatar",
@@ -895,8 +895,8 @@
     {
       "home": "Australia",
       "away": "Egypt",
-      "hs": 0,
-      "as": 0,
+      "hs": 1,
+      "as": 1,
       "done": false,
       "live": true,
       "utc": "2026-07-03T18:00Z",
