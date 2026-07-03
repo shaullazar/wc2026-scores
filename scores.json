@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T21:48:36.345901+00:00",
+  "updated": "2026-07-03T22:47:02.056462+00:00",
   "matches": [
     {
       "home": "Qatar",
@@ -906,10 +906,10 @@
     {
       "home": "Argentina",
       "away": "Cabo Verde",
-      "hs": null,
-      "as": null,
+      "hs": 1,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-03T22:00Z",
       "venue": "Hard Rock Stadium",
       "group": "World Cup"
