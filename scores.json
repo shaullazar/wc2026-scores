@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T16:50:25.420796+00:00",
+  "updated": "2026-07-03T18:05:30.388639+00:00",
   "matches": [
     {
       "home": "Qatar",
@@ -895,10 +895,10 @@
     {
       "home": "Australia",
       "away": "Egypt",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-03T18:00Z",
       "venue": "AT&T Stadium",
       "group": "World Cup"
