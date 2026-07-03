@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T01:12:59.414752+00:00",
+  "updated": "2026-07-03T04:58:53.798091+00:00",
   "matches": [
     {
       "home": "Qatar",
@@ -884,9 +884,9 @@
     {
       "home": "Switzerland",
       "away": "Algeria",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 2,
+      "as": 0,
+      "done": true,
       "live": false,
       "utc": "2026-07-03T03:00Z",
       "venue": "BC Place",
