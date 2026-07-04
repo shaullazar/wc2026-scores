@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T01:21:58.988453+00:00",
+  "updated": "2026-07-04T05:00:11.177926+00:00",
   "matches": [
     {
       "home": "Australia",
@@ -884,9 +884,9 @@
     {
       "home": "Colombia",
       "away": "Ghana",
-      "hs": null,
-      "as": null,
-      "done": false,
+      "hs": 1,
+      "as": 0,
+      "done": true,
       "live": false,
       "utc": "2026-07-04T01:30Z",
       "venue": "GEHA Field at Arrowhead Stadium",
@@ -971,7 +971,7 @@
     },
     {
       "home": "Switzerland",
-      "away": "Round of 32 15 Winner",
+      "away": "Colombia",
       "hs": null,
       "as": null,
       "done": false,
