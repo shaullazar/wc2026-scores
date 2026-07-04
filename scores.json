@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-03T23:48:28.783868+00:00",
+  "updated": "2026-07-04T01:21:58.988453+00:00",
   "matches": [
-    {
-      "home": "Qatar",
-      "away": "Switzerland",
-      "hs": 1,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-13T19:00Z",
-      "venue": "Levi's Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Brazil",
-      "away": "Morocco",
-      "hs": 1,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-13T22:00Z",
-      "venue": "MetLife Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Haiti",
-      "away": "Scotland",
-      "hs": 0,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-14T01:00Z",
-      "venue": "Gillette Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Australia",
       "away": "Türkiye",
@@ -906,10 +873,10 @@
     {
       "home": "Argentina",
       "away": "Cabo Verde",
-      "hs": 1,
-      "as": 1,
-      "done": false,
-      "live": true,
+      "hs": 3,
+      "as": 2,
+      "done": true,
+      "live": false,
       "utc": "2026-07-03T22:00Z",
       "venue": "Hard Rock Stadium",
       "group": "World Cup"
@@ -989,6 +956,28 @@
       "live": false,
       "utc": "2026-07-07T00:00Z",
       "venue": "Lumen Field",
+      "group": "World Cup"
+    },
+    {
+      "home": "Argentina",
+      "away": "Egypt",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-07T16:00Z",
+      "venue": "Mercedes-Benz Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Switzerland",
+      "away": "Round of 32 15 Winner",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-07T20:00Z",
+      "venue": "BC Place",
       "group": "World Cup"
     }
   ],
