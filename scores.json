@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T21:59:24.963615+00:00",
+  "updated": "2026-07-04T23:05:18.777006+00:00",
   "matches": [
     {
       "home": "Australia",
@@ -907,9 +907,9 @@
       "home": "Paraguay",
       "away": "France",
       "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "as": 1,
+      "done": true,
+      "live": false,
       "utc": "2026-07-04T21:00Z",
       "venue": "Lincoln Financial Field",
       "group": "World Cup"
