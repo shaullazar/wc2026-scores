@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T18:41:51.947857+00:00",
+  "updated": "2026-07-04T19:55:32.420259+00:00",
   "matches": [
     {
       "home": "Australia",
@@ -896,9 +896,9 @@
       "home": "Canada",
       "away": "Morocco",
       "hs": 0,
-      "as": 1,
-      "done": false,
-      "live": true,
+      "as": 3,
+      "done": true,
+      "live": false,
       "utc": "2026-07-04T17:00Z",
       "venue": "NRG Stadium",
       "group": "World Cup"
