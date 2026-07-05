@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T18:52:27.913215+00:00",
+  "updated": "2026-07-05T20:06:06.853792+00:00",
   "matches": [
     {
       "home": "Spain",
@@ -862,10 +862,10 @@
     {
       "home": "Brazil",
       "away": "Norway",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-05T20:00Z",
       "venue": "MetLife Stadium",
       "group": "World Cup"
