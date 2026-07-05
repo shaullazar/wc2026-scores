@@ -1,61 +1,6 @@
 {
-  "updated": "2026-07-04T23:05:18.777006+00:00",
+  "updated": "2026-07-05T00:10:56.584874+00:00",
   "matches": [
-    {
-      "home": "Australia",
-      "away": "Türkiye",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-14T04:00Z",
-      "venue": "BC Place",
-      "group": "World Cup"
-    },
-    {
-      "home": "Germany",
-      "away": "Curaçao",
-      "hs": 7,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-14T17:00Z",
-      "venue": "NRG Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Netherlands",
-      "away": "Japan",
-      "hs": 2,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-14T20:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Ivory Coast",
-      "away": "Ecuador",
-      "hs": 1,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-14T23:00Z",
-      "venue": "Lincoln Financial Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Sweden",
-      "away": "Tunisia",
-      "hs": 5,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-15T02:00Z",
-      "venue": "Estadio BBVA",
-      "group": "World Cup"
-    },
     {
       "home": "Spain",
       "away": "Cabo Verde",
