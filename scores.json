@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T18:31:35.167535+00:00",
+  "updated": "2026-07-06T20:29:58.706300+00:00",
   "matches": [
     {
       "home": "France",
@@ -840,10 +840,10 @@
     {
       "home": "Portugal",
       "away": "Spain",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-06T19:00Z",
       "venue": "AT&T Stadium",
       "group": "World Cup"
