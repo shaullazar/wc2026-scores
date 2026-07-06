@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T01:18:36.860111+00:00",
+  "updated": "2026-07-06T05:40:43.342455+00:00",
   "matches": [
     {
       "home": "France",
@@ -829,10 +829,10 @@
     {
       "home": "Mexico",
       "away": "England",
-      "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "hs": 2,
+      "as": 3,
+      "done": true,
+      "live": false,
       "utc": "2026-07-06T01:00Z",
       "venue": "Estadio Banorte",
       "group": "World Cup"
