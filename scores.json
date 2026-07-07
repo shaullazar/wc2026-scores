@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T01:08:10.175455+00:00",
+  "updated": "2026-07-07T05:05:23.037886+00:00",
   "matches": [
     {
       "home": "Austria",
@@ -819,9 +819,9 @@
       "home": "USA",
       "away": "Belgium",
       "hs": 1,
-      "as": 2,
-      "done": false,
-      "live": true,
+      "as": 4,
+      "done": true,
+      "live": false,
       "utc": "2026-07-07T00:00Z",
       "venue": "Lumen Field",
       "group": "World Cup"
@@ -861,7 +861,7 @@
     },
     {
       "home": "Spain",
-      "away": "Round of 16 6 Winner",
+      "away": "Belgium",
       "hs": null,
       "as": null,
       "done": false,
