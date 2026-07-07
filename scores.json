@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T13:36:14.632307+00:00",
+  "updated": "2026-07-07T16:08:32.086355+00:00",
   "matches": [
     {
       "home": "Austria",
@@ -829,10 +829,10 @@
     {
       "home": "Argentina",
       "away": "Egypt",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-07T16:00Z",
       "venue": "Mercedes-Benz Stadium",
       "group": "World Cup"
