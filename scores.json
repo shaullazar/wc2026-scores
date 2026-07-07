@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-07T22:46:20.073075+00:00",
+  "updated": "2026-07-07T23:40:16.453900+00:00",
   "matches": [
     {
       "home": "Austria",
@@ -842,8 +842,8 @@
       "away": "Colombia",
       "hs": 0,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-07-07T20:00Z",
       "venue": "BC Place",
       "group": "World Cup"
