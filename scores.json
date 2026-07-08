@@ -1,61 +1,6 @@
 {
-  "updated": "2026-07-07T23:40:16.453900+00:00",
+  "updated": "2026-07-08T01:10:57.037936+00:00",
   "matches": [
-    {
-      "home": "Austria",
-      "away": "Jordan",
-      "hs": 3,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-17T04:00Z",
-      "venue": "Levi's Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Portugal",
-      "away": "Congo DR",
-      "hs": 1,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-17T17:00Z",
-      "venue": "NRG Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "England",
-      "away": "Croatia",
-      "hs": 4,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-17T20:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Ghana",
-      "away": "Panama",
-      "hs": 1,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-17T23:00Z",
-      "venue": "BMO Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Uzbekistan",
-      "away": "Colombia",
-      "hs": 1,
-      "as": 3,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-18T02:00Z",
-      "venue": "Estadio Banorte",
-      "group": "World Cup"
-    },
     {
       "home": "Czechia",
       "away": "South Africa",
@@ -868,6 +813,28 @@
       "live": false,
       "utc": "2026-07-10T19:00Z",
       "venue": "SoFi Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Norway",
+      "away": "England",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-11T21:00Z",
+      "venue": "Hard Rock Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "Argentina",
+      "away": "Switzerland",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-12T01:00Z",
+      "venue": "GEHA Field at Arrowhead Stadium",
       "group": "World Cup"
     }
   ],
