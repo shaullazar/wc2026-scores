@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T21:54:17.490951+00:00",
+  "updated": "2026-07-09T23:07:32.422060+00:00",
   "matches": [
     {
       "home": "USA",
@@ -754,8 +754,8 @@
       "away": "Morocco",
       "hs": 2,
       "as": 0,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-07-09T20:00Z",
       "venue": "Gillette Stadium",
       "group": "World Cup"
