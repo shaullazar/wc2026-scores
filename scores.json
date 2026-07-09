@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-09T20:23:36.136579+00:00",
+  "updated": "2026-07-09T21:54:17.490951+00:00",
   "matches": [
     {
       "home": "USA",
@@ -752,7 +752,7 @@
     {
       "home": "France",
       "away": "Morocco",
-      "hs": 0,
+      "hs": 2,
       "as": 0,
       "done": false,
       "live": true,
