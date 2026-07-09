@@ -1,50 +1,6 @@
 {
-  "updated": "2026-07-08T23:39:37.926217+00:00",
+  "updated": "2026-07-09T01:15:12.356043+00:00",
   "matches": [
-    {
-      "home": "Czechia",
-      "away": "South Africa",
-      "hs": 1,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-18T16:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Switzerland",
-      "away": "Bosnia-Herzegovina",
-      "hs": 4,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-18T19:00Z",
-      "venue": "SoFi Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Canada",
-      "away": "Qatar",
-      "hs": 6,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-18T22:00Z",
-      "venue": "BC Place",
-      "group": "World Cup"
-    },
-    {
-      "home": "Mexico",
-      "away": "South Korea",
-      "hs": 1,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-19T01:00Z",
-      "venue": "Estadio Akron",
-      "group": "World Cup"
-    },
     {
       "home": "USA",
       "away": "Australia",
