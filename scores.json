@@ -1,50 +1,6 @@
 {
-  "updated": "2026-07-09T23:07:32.422060+00:00",
+  "updated": "2026-07-10T00:17:26.906512+00:00",
   "matches": [
-    {
-      "home": "USA",
-      "away": "Australia",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-19T19:00Z",
-      "venue": "Lumen Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Scotland",
-      "away": "Morocco",
-      "hs": 0,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-19T22:00Z",
-      "venue": "Gillette Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Brazil",
-      "away": "Haiti",
-      "hs": 3,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-20T00:30Z",
-      "venue": "Lincoln Financial Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Türkiye",
-      "away": "Paraguay",
-      "hs": 0,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-20T03:00Z",
-      "venue": "Levi's Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Netherlands",
       "away": "Sweden",
