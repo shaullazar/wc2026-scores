@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T19:04:23.037043+00:00",
+  "updated": "2026-07-10T20:39:52.447554+00:00",
   "matches": [
     {
       "home": "Netherlands",
@@ -719,8 +719,8 @@
     {
       "home": "Spain",
       "away": "Belgium",
-      "hs": 0,
-      "as": 0,
+      "hs": 1,
+      "as": 1,
       "done": false,
       "live": true,
       "utc": "2026-07-10T19:00Z",
