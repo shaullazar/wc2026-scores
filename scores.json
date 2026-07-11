@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T21:27:46.839217+00:00",
+  "updated": "2026-07-11T22:23:48.452230+00:00",
   "matches": [
     {
       "home": "Tunisia",
@@ -697,8 +697,8 @@
     {
       "home": "Norway",
       "away": "England",
-      "hs": 0,
-      "as": 0,
+      "hs": 1,
+      "as": 1,
       "done": false,
       "live": true,
       "utc": "2026-07-11T21:00Z",
