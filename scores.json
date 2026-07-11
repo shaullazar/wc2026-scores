@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-10T23:38:50.546201+00:00",
+  "updated": "2026-07-11T01:06:38.795259+00:00",
   "matches": [
-    {
-      "home": "Netherlands",
-      "away": "Sweden",
-      "hs": 5,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-20T17:00Z",
-      "venue": "NRG Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Germany",
-      "away": "Ivory Coast",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-20T20:00Z",
-      "venue": "BMO Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Ecuador",
-      "away": "Curaçao",
-      "hs": 0,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-21T00:00Z",
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Tunisia",
       "away": "Japan",
@@ -747,6 +714,17 @@
       "live": false,
       "utc": "2026-07-12T01:00Z",
       "venue": "GEHA Field at Arrowhead Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "France",
+      "away": "Spain",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-14T19:00Z",
+      "venue": "AT&T Stadium",
       "group": "World Cup"
     }
   ],
