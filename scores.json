@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T20:32:27.574389+00:00",
+  "updated": "2026-07-11T21:27:46.839217+00:00",
   "matches": [
     {
       "home": "Tunisia",
@@ -697,10 +697,10 @@
     {
       "home": "Norway",
       "away": "England",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-11T21:00Z",
       "venue": "Hard Rock Stadium",
       "group": "World Cup"
