@@ -1,61 +1,6 @@
 {
-  "updated": "2026-07-11T23:24:03.832159+00:00",
+  "updated": "2026-07-12T01:02:02.322132+00:00",
   "matches": [
-    {
-      "home": "Tunisia",
-      "away": "Japan",
-      "hs": 0,
-      "as": 4,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-21T04:00Z",
-      "venue": "Estadio BBVA",
-      "group": "World Cup"
-    },
-    {
-      "home": "Spain",
-      "away": "Saudi Arabia",
-      "hs": 4,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-21T16:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Belgium",
-      "away": "IR Iran",
-      "hs": 0,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-21T19:00Z",
-      "venue": "SoFi Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Uruguay",
-      "away": "Cabo Verde",
-      "hs": 2,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-21T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "New Zealand",
-      "away": "Egypt",
-      "hs": 1,
-      "as": 3,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-22T01:00Z",
-      "venue": "BC Place",
-      "group": "World Cup"
-    },
     {
       "home": "Argentina",
       "away": "Austria",
@@ -699,8 +644,8 @@
       "away": "England",
       "hs": 1,
       "as": 2,
-      "done": false,
-      "live": true,
+      "done": true,
+      "live": false,
       "utc": "2026-07-11T21:00Z",
       "venue": "Hard Rock Stadium",
       "group": "World Cup"
@@ -708,10 +653,10 @@
     {
       "home": "Argentina",
       "away": "Switzerland",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-12T01:00Z",
       "venue": "GEHA Field at Arrowhead Stadium",
       "group": "World Cup"
@@ -725,6 +670,17 @@
       "live": false,
       "utc": "2026-07-14T19:00Z",
       "venue": "AT&T Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "England",
+      "away": "Quarterfinal 4 Winner",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-15T19:00Z",
+      "venue": "Mercedes-Benz Stadium",
       "group": "World Cup"
     }
   ],
