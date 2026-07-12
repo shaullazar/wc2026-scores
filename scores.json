@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-12T01:02:02.322132+00:00",
+  "updated": "2026-07-12T04:31:59.106089+00:00",
   "matches": [
     {
       "home": "Argentina",
@@ -653,10 +653,10 @@
     {
       "home": "Argentina",
       "away": "Switzerland",
-      "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "hs": 3,
+      "as": 1,
+      "done": true,
+      "live": false,
       "utc": "2026-07-12T01:00Z",
       "venue": "GEHA Field at Arrowhead Stadium",
       "group": "World Cup"
@@ -674,7 +674,7 @@
     },
     {
       "home": "England",
-      "away": "Quarterfinal 4 Winner",
+      "away": "Argentina",
       "hs": null,
       "as": null,
       "done": false,
