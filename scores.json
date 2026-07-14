@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:57:42.172232+00:00",
+  "updated": "2026-07-14T21:04:15.663171+00:00",
   "matches": [
     {
       "home": "Bosnia-Herzegovina",
@@ -577,9 +577,9 @@
       "home": "France",
       "away": "Spain",
       "hs": 0,
-      "as": 1,
-      "done": false,
-      "live": true,
+      "as": 2,
+      "done": true,
+      "live": false,
       "utc": "2026-07-14T19:00Z",
       "venue": "AT&T Stadium",
       "group": "World Cup"
