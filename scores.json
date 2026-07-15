@@ -1,72 +1,6 @@
 {
-  "updated": "2026-07-14T23:10:10.746670+00:00",
+  "updated": "2026-07-15T00:04:56.634695+00:00",
   "matches": [
-    {
-      "home": "Bosnia-Herzegovina",
-      "away": "Qatar",
-      "hs": 3,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-24T19:00Z",
-      "venue": "Lumen Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Switzerland",
-      "away": "Canada",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-24T19:00Z",
-      "venue": "BC Place",
-      "group": "World Cup"
-    },
-    {
-      "home": "Morocco",
-      "away": "Haiti",
-      "hs": 4,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-24T22:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Scotland",
-      "away": "Brazil",
-      "hs": 0,
-      "as": 3,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-24T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Czechia",
-      "away": "Mexico",
-      "hs": 0,
-      "as": 3,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-25T01:00Z",
-      "venue": "Estadio Banorte",
-      "group": "World Cup"
-    },
-    {
-      "home": "South Africa",
-      "away": "South Korea",
-      "hs": 1,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-25T01:00Z",
-      "venue": "Estadio BBVA",
-      "group": "World Cup"
-    },
     {
       "home": "Curaçao",
       "away": "Ivory Coast",
@@ -593,6 +527,17 @@
       "live": false,
       "utc": "2026-07-15T19:00Z",
       "venue": "Mercedes-Benz Stadium",
+      "group": "World Cup"
+    },
+    {
+      "home": "France",
+      "away": "Semifinal 2 Loser",
+      "hs": null,
+      "as": null,
+      "done": false,
+      "live": false,
+      "utc": "2026-07-18T21:00Z",
+      "venue": "Hard Rock Stadium",
       "group": "World Cup"
     }
   ],
