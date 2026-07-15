@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T20:02:31.808832+00:00",
+  "updated": "2026-07-15T21:11:14.589527+00:00",
   "matches": [
     {
       "home": "Curaçao",
@@ -521,17 +521,17 @@
     {
       "home": "England",
       "away": "Argentina",
-      "hs": 0,
-      "as": 0,
-      "done": false,
-      "live": true,
+      "hs": 1,
+      "as": 2,
+      "done": true,
+      "live": false,
       "utc": "2026-07-15T19:00Z",
       "venue": "Mercedes-Benz Stadium",
       "group": "World Cup"
     },
     {
       "home": "France",
-      "away": "Semifinal 2 Loser",
+      "away": "England",
       "hs": null,
       "as": null,
       "done": false,
