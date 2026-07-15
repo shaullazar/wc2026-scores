@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T18:52:31.480382+00:00",
+  "updated": "2026-07-15T20:02:31.808832+00:00",
   "matches": [
     {
       "home": "Curaçao",
@@ -521,10 +521,10 @@
     {
       "home": "England",
       "away": "Argentina",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 0,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-15T19:00Z",
       "venue": "Mercedes-Benz Stadium",
       "group": "World Cup"
