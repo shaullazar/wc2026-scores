@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T20:22:48.184749+00:00",
+  "updated": "2026-07-18T21:11:01.334087+00:00",
   "matches": [
     {
       "home": "South Africa",
@@ -334,10 +334,10 @@
     {
       "home": "France",
       "away": "England",
-      "hs": null,
-      "as": null,
+      "hs": 0,
+      "as": 1,
       "done": false,
-      "live": false,
+      "live": true,
       "utc": "2026-07-18T21:00Z",
       "venue": "Hard Rock Stadium",
       "group": "World Cup"
