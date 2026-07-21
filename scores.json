@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-20T23:31:20.330641+00:00",
+  "updated": "2026-07-21T01:02:14.356492+00:00",
   "matches": [
-    {
-      "home": "Ivory Coast",
-      "away": "Norway",
-      "hs": 1,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-30T17:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "France",
-      "away": "Sweden",
-      "hs": 3,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-06-30T21:00Z",
-      "venue": "MetLife Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Mexico",
-      "away": "Ecuador",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-01T02:00Z",
-      "venue": "Estadio Banorte",
-      "group": "World Cup"
-    },
     {
       "home": "England",
       "away": "Congo DR",
