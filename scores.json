@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-21T23:40:41.976603+00:00",
+  "updated": "2026-07-22T01:07:07.186797+00:00",
   "matches": [
-    {
-      "home": "England",
-      "away": "Congo DR",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-01T16:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Belgium",
-      "away": "Senegal",
-      "hs": 3,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-01T20:00Z",
-      "venue": "Lumen Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "USA",
-      "away": "Bosnia-Herzegovina",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-02T00:00Z",
-      "venue": "Levi's Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Spain",
       "away": "Austria",
