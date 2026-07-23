@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-22T23:42:39.184682+00:00",
+  "updated": "2026-07-23T01:14:23.177645+00:00",
   "matches": [
-    {
-      "home": "Spain",
-      "away": "Austria",
-      "hs": 3,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-02T19:00Z",
-      "venue": "SoFi Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Portugal",
-      "away": "Croatia",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-02T23:00Z",
-      "venue": "BMO Field",
-      "group": "World Cup"
-    },
-    {
-      "home": "Switzerland",
-      "away": "Algeria",
-      "hs": 2,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-03T03:00Z",
-      "venue": "BC Place",
-      "group": "World Cup"
-    },
     {
       "home": "Australia",
       "away": "Egypt",
