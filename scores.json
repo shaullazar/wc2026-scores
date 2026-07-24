@@ -1,39 +1,6 @@
 {
-  "updated": "2026-07-23T23:39:25.082272+00:00",
+  "updated": "2026-07-24T01:07:31.785049+00:00",
   "matches": [
-    {
-      "home": "Australia",
-      "away": "Egypt",
-      "hs": 1,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-03T18:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Argentina",
-      "away": "Cabo Verde",
-      "hs": 3,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-03T22:00Z",
-      "venue": "Hard Rock Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "Colombia",
-      "away": "Ghana",
-      "hs": 1,
-      "as": 0,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-04T01:30Z",
-      "venue": "GEHA Field at Arrowhead Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Canada",
       "away": "Morocco",
