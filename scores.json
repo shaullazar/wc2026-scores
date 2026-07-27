@@ -1,28 +1,6 @@
 {
-  "updated": "2026-07-26T23:37:31.473358+00:00",
+  "updated": "2026-07-27T01:16:32.057214+00:00",
   "matches": [
-    {
-      "home": "Portugal",
-      "away": "Spain",
-      "hs": 0,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-06T19:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
-    {
-      "home": "USA",
-      "away": "Belgium",
-      "hs": 1,
-      "as": 4,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-07T00:00Z",
-      "venue": "Lumen Field",
-      "group": "World Cup"
-    },
     {
       "home": "Argentina",
       "away": "Egypt",
