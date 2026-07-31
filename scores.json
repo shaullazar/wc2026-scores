@@ -1,17 +1,6 @@
 {
-  "updated": "2026-07-30T23:28:15.496863+00:00",
+  "updated": "2026-07-31T01:06:54.603999+00:00",
   "matches": [
-    {
-      "home": "Spain",
-      "away": "Belgium",
-      "hs": 2,
-      "as": 1,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-10T19:00Z",
-      "venue": "SoFi Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "Norway",
       "away": "England",
