@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-03T23:40:58.096792+00:00",
+  "updated": "2026-08-04T01:06:13.794224+00:00",
   "matches": [
-    {
-      "home": "France",
-      "away": "Spain",
-      "hs": 0,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-14T19:00Z",
-      "venue": "AT&T Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "England",
       "away": "Argentina",
