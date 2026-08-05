@@ -1,17 +1,6 @@
 {
-  "updated": "2026-08-04T23:35:06.960503+00:00",
+  "updated": "2026-08-05T00:59:51.812790+00:00",
   "matches": [
-    {
-      "home": "England",
-      "away": "Argentina",
-      "hs": 1,
-      "as": 2,
-      "done": true,
-      "live": false,
-      "utc": "2026-07-15T19:00Z",
-      "venue": "Mercedes-Benz Stadium",
-      "group": "World Cup"
-    },
     {
       "home": "France",
       "away": "England",
